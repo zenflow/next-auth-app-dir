@@ -1,0 +1,7 @@
+dist/
+node_modules/
+.next/
+.vscode/
+next-env.d.ts
+/test-results/
+/playwright-report/
